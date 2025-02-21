@@ -7,8 +7,6 @@ public class OperadoresAritmeticos {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
-		
-		
 		String nome;
 		System.out.println("Digite seu nome: ");
 		nome = sc.next(); // Armazenar valores tipo texto
